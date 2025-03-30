@@ -26,4 +26,4 @@ A simple and elegant **Parallax Scrolling Effect** built with **HTML**, **CSS**,
 
 Clone the repository:
    ```bash
-   git clone https://github.com/your-username/parallax-effect-js.git
+   git clone https://github.com/Khairul25556/website-parallax-effect-with-JS.git
